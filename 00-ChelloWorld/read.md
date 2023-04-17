@@ -1,2 +1,2 @@
-Compilador: GCC
+Compilador: GCC;
 Version C: C17
